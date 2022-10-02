@@ -1,7 +1,7 @@
 # JWSTGame
 Since most files in unity project are larger than 25MB, I only pushed the C# scripts of this project. 
 
-## And the final game project url is here : https://www.companydetective.website/ , hope you enjoy it !
+### And the final game project url is here : https://www.companydetective.website/ , hope you enjoy it !
 
 (Sorry for the wired domain name, it was bought for other project before.)
 
