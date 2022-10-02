@@ -1,0 +1,9 @@
+[show]
+The whole universe is your mission menu.[r]
+And there are lots of mission waiting for you to clear![w]
+Move your camera with "RightClick"[r]
+You can see the coordinates in the corner of the screen are changing.[w]
+Find the location "x:0.08 , y:-0.2 , z:0.02 ".[r]
+There's a big red nebula.[w]
+Once you find it, click on it.
+[stop] 

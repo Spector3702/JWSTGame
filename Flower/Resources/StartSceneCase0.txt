@@ -1,0 +1,4 @@
+[show]
+Welcome to JWSTGame.[r]
+Click "start new game" to start the game.
+[stop]

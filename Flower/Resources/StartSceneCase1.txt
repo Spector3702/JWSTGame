@@ -1,0 +1,12 @@
+[c]
+Please click fullscreen button to enjoy the game(on the bottom right).[r]
+Press "space" to continue.[w]
+JWST ( James Webb Space Telescope )[r]
+as known as the inheritor of the Hubble Space Telescope[w]
+is an infrared telescope launched on December 25, 2021.[r]
+It is at least 1.5 million kilometers from the Earth, and runs at Lagrangian point L2.[w]
+The mission of JWST is jointly led by NASA and its partners, ESA ( European Space Agency ) and CSA ( Canadian Space Agency ),[w]
+and the target duration of this mission is 10 years.[w]
+You can move and zoom the camera with "RightClick" and "MouseWheel".[r]
+Try it !   (Press "space" to continue.)[w]
+Click on JWST to view the universe through JWST.

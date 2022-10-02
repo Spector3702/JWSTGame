@@ -1,0 +1,6 @@
+[show]
+[c]
+You can press "LeftArrow" button to move left.[r]
+Press "RightArrow" button to move right, and so on.[w]
+According to the picture in the corner of the screen, try to find the the specific star and click on it.
+[stop]
